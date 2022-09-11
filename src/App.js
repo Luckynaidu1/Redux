@@ -1,10 +1,10 @@
 import React from "react";
-import Api from "./store/Api";
+import  Getdata from "./Getdata";
 
 const App = () => {
   return (
     <div>
-      <Api />
+      <Getdata/>
     </div>
   );
 };
